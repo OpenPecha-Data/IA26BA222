@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W29249
   title: ཉི་དབང་མགོན་པོས་མཛད་པའི་གླུ་ཐལ་སྦྱར་མ།
-  volume: ''
+  volume:
+    1fd1b76e5b6e4d3fba81ed23dffba10b:
+      image_group_id: I1KG8526
+      title: Volume 1 of nyi dbang mgon pos mdzad pa'i glu thal sbyar ma/
+      volume_number: 1
+      total_pages: 210
   author: ''
+ebook_metadata:
+  title: ཉི་དབང་མགོན་པོས་མཛད་པའི་གླུ་ཐལ་སྦྱར་མ།
+  author: ''
+  sku: P007133
+  cover: cover.jpg
+  layers:
+  - pagination
